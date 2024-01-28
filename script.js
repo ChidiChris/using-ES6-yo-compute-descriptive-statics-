@@ -26,3 +26,9 @@ const mode = stats.mode();
 console.log(`Mean: ${mean}`);
 console.log(`Median: ${median}`);
 console.log(`Mode: ${mode}`);
+
+This would output the following:
+
+Mean: 3
+Median: 3
+Mode: 1
